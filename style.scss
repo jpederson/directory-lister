@@ -36,6 +36,19 @@ a {
 }
 
 
+.container {
+	@include respond-to( 768px ) {
+	}
+
+	@include respond-to( 850px ) {
+		border: 2px solid #ddd;
+		box-shadow: 0 0 25px #e5e5e5;
+		max-width: 768px;
+		margin: 30px auto;
+	}
+}
+
+
 h1 {
 	padding: 20px 10px 10px;
 	margin: 0;
