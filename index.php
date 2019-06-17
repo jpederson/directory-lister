@@ -14,7 +14,7 @@ function ext( $file ) {
 // get the title, from the url
 function title() {
     $url = substr( $_SERVER['REQUEST_URI'], 1 );
-    if ( empty( $url ) ) $url = '/';
+    if ( empty( $url ) ) $url = 'home/';
     return $url;
 }
 
