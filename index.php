@@ -29,12 +29,20 @@ function human_filesize( $file ) {
 }
 
 
+// get the file list for the current directory
+$files = scandir( '.' );
+
+
 // files to exclude
 $exclude = array( '.', '..', '.DS_Store', 'index.php', '.git', '.gitmodules', '.gitignore', 'node_modules' );
 
 
-// get the file list for the current directory
-$files = scandir( '.' );
+// search files array and remove anything in the exclude array
+foreach ( $exclude as $ex ) {
+    if ( ( $key = array_search( $ex, $files ) ) !== false ) {
+        unset( $files[$key] );
+    }
+}
 
 
 // title bar and tiny stylesheet with all the icons encoded in it.
