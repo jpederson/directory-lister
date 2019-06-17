@@ -75,10 +75,11 @@ if ( !empty( $files ) ) {
     print "</ul>";
 
 } else {
+
+    // display empty directory error.
     print "<p>This folder contains no files.</p>";
+
 }
 
-?>
-</div>
-</body>
-</html>
+
+?></div></body></html>
