@@ -1,0 +1,7 @@
+.DS_Store
+node_modules
+sample.*
+.sass-cache
+style.css.map
+style.css
+package-lock.json
