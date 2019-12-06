@@ -6,4 +6,13 @@ A simple all-in-one directory listing script written in PHP. Just drop **only th
 
 *****
 
+### Quick Install (CLI)
+To quickly install this script (just the index.php file), navigate to your directory in the command line interface, and paste in this command. You do need to have cURL installed, but that's available on most platforms that support php.
+
+```
+curl -O https://raw.githubusercontent.com/jpederson/directory-lister/master/index.php
+```
+
+*****
+
 ![Screenshot of Directory Lister](https://raw.githubusercontent.com/jpederson/directory-lister/master/screenshot.png)
