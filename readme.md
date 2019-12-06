@@ -16,3 +16,7 @@ curl -O https://raw.githubusercontent.com/jpederson/directory-lister/master/inde
 *****
 
 ![Screenshot of Directory Lister](https://raw.githubusercontent.com/jpederson/directory-lister/master/screenshot.png)
+
+*****
+
+Developed with love by (James Pederson)[https://jpederson.com].
