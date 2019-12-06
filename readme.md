@@ -19,4 +19,4 @@ curl -O https://raw.githubusercontent.com/jpederson/directory-lister/master/inde
 
 *****
 
-Developed with love by (James Pederson)[https://jpederson.com].
+Developed with love by [James Pederson](https://jpederson.com).
