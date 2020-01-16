@@ -33,7 +33,7 @@ The script will automatically display icons for the following file formats:
 - **Video**: .mp4, .mkv, .mov, .flv, .wmv, .webm, .avi, .ogg, .m4v, .m4, .mpg, .mpeg, .vob
 - **Audio**: .mp3, .wav, .aa, .aac, .flac, .m4p, .wma
 
-Submit an issue if you'd like support for any additional file formats - I'm happy to add them as needed, so do ask.
+Submit an [issue](https://github.com/jpederson/directory-lister/issues) if you'd like support for any additional file formats - I'm happy to add them as needed, so do ask.
 
 *****
 
