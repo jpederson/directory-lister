@@ -27,7 +27,7 @@ The script will automatically display icons for the following file formats:
 - **Installer Files**: .pkg, .exe, .dmg, .apk
 - **Archives**: .zip, .zipx, .tar, .gz, .rar, .bz, .bz2, .sevenz, .sit, .sitx, .a, .ar, .lz, .rz, .xz, .z, .s7z, .cab, .jar
 - **Database**: .db, .sqlite, .dbf, .dat
-- **Disk Images**: .iso, .img
+- **Disk Images**: .iso, .img, .bin, .adf, .cdfs, .disk, .vmdk, .vcd, .vc4
 - **Maps/Map Data**: .map, .shp, .shx, .geojson, .gml, .kml, .kmz, .gpx, .vct, .vdc, .osm, .dlg
 - **Text Files**: .txt, .doc, .odt, .md
 - **Video**: .mp4, .mkv, .mov, .flv, .wmv, .webm, .avi, .ogg, .m4v, .m4, .mpg, .mpeg, .vob
