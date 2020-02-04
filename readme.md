@@ -29,7 +29,7 @@ The script will automatically display icons for the following file formats:
 - **Database**: .db, .sqlite, .dbf, .dat, .db2, .db3, .dbf, .dbs, .dbw, .dbx, .mdf, .sql
 - **Disk Images**: .iso, .img, .bin, .adf, .cdfs, .disk, .vmdk, .vcd, .vc4
 - **Maps/Map Data**: .map, .shp, .shx, .geojson, .gml, .kml, .kmz, .gpx, .vct, .vdc, .osm, .dlg
-- **Text Files**: .txt, .doc, .odt, .md
+- **Text/Doc Files**: .ans, .ascii, .doc, .docm, .docx, .faq, .man, .msg, .md, .odt, .ort, .ott, .readme, .rtf, .txt, .wpd, .wps
 - **Video**: .mp4, .mkv, .mov, .flv, .wmv, .webm, .avi, .ogg, .m4v, .m4, .mpg, .mpeg, .vob
 - **Audio**: .aa, .aac, .aax, .cda, .flac, .mp3, .m4p, .m4b, .mogg, .ogg, .oga, .ra, .rm, .wma, .wav
 
