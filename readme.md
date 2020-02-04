@@ -26,7 +26,7 @@ The script will automatically display icons for the following file formats:
 - **Images/Photos**: .jpg, .gif, .jpeg, .png, .raw, .nef, .tif, .tiff, .dwg, .dwf, .dxf
 - **Installer Files**: .pkg, .exe, .dmg, .apk
 - **Archives**: .zip, .zipx, .tar, .gz, .rar, .bz, .bz2, .sevenz, .sit, .sitx, .a, .ar, .lz, .rz, .xz, .z, .s7z, .cab, .jar
-- **Database**: .db, .sqlite, .dbf, .dat
+- **Database**: .db, .sqlite, .dbf, .dat, .db2, .db3, .dbf, .dbs, .dbw, .dbx, .mdf, .sql
 - **Disk Images**: .iso, .img, .bin, .adf, .cdfs, .disk, .vmdk, .vcd, .vc4
 - **Maps/Map Data**: .map, .shp, .shx, .geojson, .gml, .kml, .kmz, .gpx, .vct, .vdc, .osm, .dlg
 - **Text Files**: .txt, .doc, .odt, .md
