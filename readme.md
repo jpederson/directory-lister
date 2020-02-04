@@ -31,7 +31,7 @@ The script will automatically display icons for the following file formats:
 - **Maps/Map Data**: .map, .shp, .shx, .geojson, .gml, .kml, .kmz, .gpx, .vct, .vdc, .osm, .dlg
 - **Text Files**: .txt, .doc, .odt, .md
 - **Video**: .mp4, .mkv, .mov, .flv, .wmv, .webm, .avi, .ogg, .m4v, .m4, .mpg, .mpeg, .vob
-- **Audio**: .mp3, .wav, .aa, .aac, .flac, .m4p, .wma
+- **Audio**: .aa, .aac, .aax, .cda, .flac, .mp3, .m4p, .m4b, .mogg, .ogg, .oga, .ra, .rm, .wma, .wav
 
 Submit an [issue](https://github.com/jpederson/directory-lister/issues) if you'd like support for any additional file formats - I'm happy to add them as needed, so do ask.
 
